@@ -1,7 +1,6 @@
 ;分号开头是注释说明，用来了解补丁的类型(例如：是月度汇总补丁还是安全性更新补丁)，文档允许有空行
 
-;2022-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu
-
-;2022-01 Windows 10 1809 基于 x64 系统的累计更新
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows10.0-kb5010351-x64_f7ba53f4c410299fc28400f7a21b7f616f635a7c.msu
+;适用于基于 x86 的系统的 Windows 8.1 的 2022 年 4 月安全质量月度汇总 (KB5012670)
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu
+;适用于基于 x86 的系统的 Windows 8.1 的仅安全质量更新 2022 年 4 月 (KB5012639)
+https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012639-x86_28a97cb492766a5eb93b85c2d1b5d07875d7d223.msu
